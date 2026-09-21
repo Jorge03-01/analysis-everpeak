@@ -1,2 +1,0 @@
-# analysis-everpeak
-Análisis ConnectaTel
